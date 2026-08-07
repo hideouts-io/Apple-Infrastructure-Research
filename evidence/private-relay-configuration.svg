@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="436" viewBox="0 0 1280 436">
+<rect width="100%" height="100%" fill="#0d1117"/>
+<rect width="100%" height="62" fill="#161b22"/>
+<text x="24" y="38" fill="#f0f6fc" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="20" font-weight="600">iCloud Private Relay configuration — Apple + egress providers</text>
+<text x="24" y="82" fill="#8b949e" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13">Source: AdminLogs.log — exact source text; long lines visually wrapped</text>
+<text x="24" y="112" fill="#6e7681" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14">  270</text>
+<text x="88" y="112" fill="#c9d1d9" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14">        authType = &quot;BAA_ANISETTE&quot;;</text>
+<text x="24" y="136" fill="#6e7681" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14">  271</text>
+<text x="88" y="136" fill="#c9d1d9" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14">        authURL = &quot;https://mask-api.icloud.com/v1/fetchAuthTokens&quot;;</text>
+<text x="24" y="160" fill="#6e7681" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14">  274</text>
+<text x="88" y="160" fill="#c9d1d9" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14">        dohURL = &quot;https://mask.icloud.com/dns-query&quot;;</text>
+<text x="24" y="184" fill="#6e7681" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14">  276</text>
+<text x="88" y="184" fill="#c9d1d9" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14">    enabled = 1;</text>
+<text x="24" y="208" fill="#6e7681" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14">  443</text>
+<text x="88" y="208" fill="#c9d1d9" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14">            proxyURL = &quot;https://q1.us-pst.gh-g.v1.akaquill.net:443&quot;;</text>
+<text x="24" y="232" fill="#6e7681" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14">  447</text>
+<text x="88" y="232" fill="#c9d1d9" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14">            vendor = Akamai;</text>
+<text x="24" y="256" fill="#6e7681" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14">  461</text>
+<text x="88" y="256" fill="#c9d1d9" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14">            proxyHop = &quot;INGRESS_ONLY&quot;;</text>
+<text x="24" y="280" fill="#6e7681" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14">  467</text>
+<text x="88" y="280" fill="#c9d1d9" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14">            tcpProxyFqdn = &quot;https://mask-h2.icloud.com:443&quot;;</text>
+<text x="24" y="304" fill="#6e7681" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14">  469</text>
+<text x="88" y="304" fill="#c9d1d9" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14">            vendor = Apple;</text>
+<text x="24" y="328" fill="#6e7681" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14">  477</text>
+<text x="88" y="328" fill="#c9d1d9" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14">            proxyURL = &quot;https://cp4.cloudflare.com:443&quot;;</text>
+<text x="24" y="352" fill="#6e7681" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14">  481</text>
+<text x="88" y="352" fill="#c9d1d9" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14">            vendor = CloudFlare;</text>
+<text x="24" y="376" fill="#6e7681" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14">  549</text>
+<text x="88" y="376" fill="#c9d1d9" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14">            proxyURL = &quot;https://us-pst.exp.fastly-masque.net:2495&quot;;</text>
+<text x="24" y="400" fill="#6e7681" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14">  551</text>
+<text x="88" y="400" fill="#c9d1d9" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14">            tcpProxyFqdn = &quot;https://us-pst.exp.fastly-masque.net:2495&quot;;</text>
+</svg>
