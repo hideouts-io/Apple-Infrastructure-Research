@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="340" viewBox="0 0 1280 340">
+<rect width="100%" height="100%" fill="#0d1117"/>
+<rect width="100%" height="62" fill="#161b22"/>
+<text x="24" y="38" fill="#f0f6fc" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="20" font-weight="600">Akamai token-agent lifecycle — networkserviceproxy</text>
+<text x="24" y="82" fill="#8b949e" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13">Source: AdminLogs.log — exact source text; long lines visually wrapped</text>
+<text x="24" y="112" fill="#6e7681" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14">  604</text>
+<text x="88" y="112" fill="#c9d1d9" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14">default 2022-12-16 11:32:51.289474 -0800        networkserviceproxy     Registering Akamai token agent </text>
+<text x="88" y="136" fill="#c9d1d9" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14">(C2E6E50C-EEBC-46FD-9AC1-E26F5B2AFBC5)</text>
+<text x="24" y="160" fill="#6e7681" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14"> 1033</text>
+<text x="88" y="160" fill="#c9d1d9" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14">default 2022-12-16 11:32:54.023221 -0800        networkserviceproxy     generated 30 unactivated tokens for Akamai</text>
+<text x="24" y="184" fill="#6e7681" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14"> 1035</text>
+<text x="88" y="184" fill="#c9d1d9" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14">default 2022-12-16 11:32:54.053096 -0800        networkserviceproxy     Token for Quic[Akamai] fetch failed</text>
+<text x="24" y="208" fill="#6e7681" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14"> 1415</text>
+<text x="88" y="208" fill="#c9d1d9" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14">default 2022-12-16 11:32:54.698641 -0800        networkserviceproxy     generated 30 unactivated tokens for Akamai</text>
+<text x="24" y="232" fill="#6e7681" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14"> 1417</text>
+<text x="88" y="232" fill="#c9d1d9" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14">default 2022-12-16 11:32:54.829380 -0800        networkserviceproxy     activated 30 tokens for Akamai</text>
+<text x="24" y="256" fill="#6e7681" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14"> 1418</text>
+<text x="88" y="256" fill="#c9d1d9" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14">default 2022-12-16 11:32:54.829438 -0800        networkserviceproxy     Token fetch successful for &quot;Akamai&quot;</text>
+<text x="24" y="280" fill="#6e7681" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14"> 1419</text>
+<text x="88" y="280" fill="#c9d1d9" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14">default 2022-12-16 11:32:54.849941 -0800        networkserviceproxy     Cache 30 tokens for proxy &quot;Akamai&quot;, expiration</text>
+<text x="88" y="304" fill="#c9d1d9" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14"> Sun Dec 18 10:42:15 2022</text>
+</svg>
