@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="268" viewBox="0 0 1280 268">
+<rect width="100%" height="100%" fill="#0d1117"/>
+<rect width="100%" height="62" fill="#161b22"/>
+<text x="24" y="38" fill="#f0f6fc" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="20" font-weight="600">Daiquiri response headers — Apple backend metadata</text>
+<text x="24" y="82" fill="#8b949e" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13">Source: AdminLogs.log — exact source text; long lines visually wrapped</text>
+<text x="24" y="112" fill="#6e7681" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14">   61</text>
+<text x="88" y="112" fill="#c9d1d9" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14">        &quot;daiquiri/3.0.0&quot;</text>
+<text x="24" y="136" fill="#6e7681" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14">  113</text>
+<text x="88" y="136" fill="#c9d1d9" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14">        &quot;TCP_MEM_HIT from a173-222-247-87.deploy.akamaitechnologies.com (AkamaiGHost/10.10.3-45298580) (-)&quot;</text>
+<text x="24" y="160" fill="#6e7681" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14">  115</text>
+<text x="88" y="160" fill="#c9d1d9" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14">    &quot;x-daiquiri-instance&quot; =     (</text>
+<text x="24" y="184" fill="#6e7681" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14">  116</text>
+<text x="88" y="184" fill="#c9d1d9" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14">        &quot;daiquiri:10001:daiquiri-all-shared-dc-59b8d9f776-82vp9:7987:22RELEASE182:daiquiri-amp-kubernetes-shared-dc-ak</text>
+<text x="88" y="208" fill="#c9d1d9" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14">8s-prod-pv1-amp-daiquiri-ingress-prod&quot;,</text>
+<text x="24" y="232" fill="#6e7681" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14">  117</text>
+<text x="88" y="232" fill="#c9d1d9" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14">        &quot;daiquiri:51150006:pv00p00it-azdaiquiriext005:7987:22RELEASE182:daiquiri-amp-aws-shared-ext-pv00-prod&quot;</text>
+</svg>
