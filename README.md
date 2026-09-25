@@ -597,8 +597,6 @@ evidence/
 
 ---
 
-## Repository
+## License
 
-Source log and related macOS research:
-
-**`hideouts-io/MacOS`**
+This research is released under the [MIT License](LICENSE).
